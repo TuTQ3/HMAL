@@ -15,7 +15,7 @@ plugins {
 }
 
 android {
-    namespace = "com.google.android.hmal"
+    namespace = "com.hicorenational.antifraud"
 
     buildFeatures {
         buildConfig = true
